@@ -1,13 +1,11 @@
-package com.syabon.tagpad
-
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
-import android.view.View
 import android.widget.*
+import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.floatingactionbutton.FloatingActionButton
-import com.google.android.material.snackbar.Snackbar
+import com.syabon.tagpad.CreateMemoActivity
+import com.syabon.tagpad.MemoOpenHelper
+import com.syabon.tagpad.R
 
 class MainActivity : AppCompatActivity() {
 
@@ -55,19 +53,8 @@ class MainActivity : AppCompatActivity() {
             db.close()
         }
 
-        /* 仮のデータを作成
-        ArrayList<HashMap<String, String>> tmpList = new ArrayList<>();
-        for(int i = 1; i <=  5; i++){
-            HashMap<String,String> data = new HashMap<>();
-            // 引数には、(名前,実際の値)という組合せで指定します　名前はSimpleAdapterの引数で使用します
-            data.put("body","サンプルデータ"+i);
-            data.put("id","sampleId"+i);
-            tmpList.add(data);
-        }*/
-
         // Adapter生成
-        val simpleAdapter = SimpleAdapter(
-            this,
+        val simpleAdapter = SimpleAdapter(this,
             memoList, // 使用するデータ
             android.R.layout.simple_list_item_2, // 使用するレイアウト
             arrayOf("body", "id"), // どの項目を
@@ -76,7 +63,6 @@ class MainActivity : AppCompatActivity() {
 
         // idがmemoListのListViewを取得
         val listView = findViewById<ListView>(R.id.memoList)
-
         listView.adapter = simpleAdapter
 
         // リスト項目をクリックした時の処理
@@ -92,13 +78,10 @@ class MainActivity : AppCompatActivity() {
 
             // 選択されたビューを取得 TwoLineListItemを取得した後、text2の値を取得する
             val two = view as TwoLineListItem
-            //                TextView idTextView = (TextView)two.findViewById(android.R.id.text2);
             val idTextView = two.text2 as TextView
-
             val isStr = idTextView.text as String
-
             // 値を引き渡す (識別名, 値)の順番で指定します
-            intent.putExtra(CreateMemoActivity.KEY_STATE, isStr)
+            intent.putExtra("id", isStr)
             // Activity起動
             startActivity(intent)
         }
@@ -131,11 +114,17 @@ class MainActivity : AppCompatActivity() {
             true
         }
 
-        val fab = findViewById<FloatingActionButton>(R.id.fab)
-        fab.setOnClickListener { view ->
+
+        /**
+         * 新規作成するボタン処理
+         */
+        // idがnewButtonのボタンを取得
+        val newButton = findViewById<FloatingActionButton>(R.id.fab)
+        // clickイベント追加
+        newButton.setOnClickListener {
             // CreateMemoActivityへ遷移
             val intent = Intent(this, CreateMemoActivity::class.java)
-            intent.putExtra(CreateMemoActivity.KEY_STATE, "")
+            intent.putExtra("id", "")
             startActivity(intent)
         }
     }
