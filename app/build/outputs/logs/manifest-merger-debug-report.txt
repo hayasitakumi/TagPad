@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\26de0425741127db23316b0cae362b1c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\16dfa3aa241851f57a5fa50f24c1e287\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\ec3a479ed3460d801123d3c69a9dc7f9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\4b16379494b2a29b3645eee8744771d5\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\89ce5b5e4108ae057b9d5138e9d9451d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\b139495609fc242e6707d60b93d92c3a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\8fd11a6da8db737255445e754769a723\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\362fdac1691a23312570c7bfc70c116a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\85b7de5dacf7f4e077290d241cfb749d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\a8ef0b50a5bb9421bf77295787a3f716\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\7dc908a9a8881e752bdd2594d5341552\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\d3e0201f6a4ebc86751ba0c077795094\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\dcefe9f8d49a0da409e5a2605a57f48b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\d8e9744acba06543f770f0c087c430f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\74152e0a3d6f9b276353731c761bfafe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\3cbe66ba5bc26ac0ae092e51c8ffe958\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\5874cca5b33e68250e295501bda3caaa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\dfabdb0fa5e5ff601970206753d1902f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\2f954612d31936603632457576f24d45\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\7c23c3e9d6473b822c47378ddf187c49\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\78d734ba52b7d1cd09825b65d04731a0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\6a0aa482a697f82bd3ba1ef96feaa27b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\4ab929e6d39da4cb5c2a9b2d310fe349\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\e594ce994c2a2a1162cc22920b349df5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\eec9db3c646d9b82993a2c3aa93585da\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\bc6817c3dc2ff817e52aaac4b555867c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\fc30e29172335263a95329fda28a1748\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\9129f5c2278bba85f56347c954853b2f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\ea3abc736c4e26c2b1b473a005d98920\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\b0977e658137090abd5eff48464fb145\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\ecec9223bf7f6be317952f15d547907a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\47dc60ab290e477e4dca990bb12e20af\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:4:11-38
+		INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:3:11-67
+	android:versionCode
+		INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:6:5-39
+	dist:instant
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:6:18-37
+application
+ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\26de0425741127db23316b0cae362b1c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\26de0425741127db23316b0cae362b1c\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\4b16379494b2a29b3645eee8744771d5\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\4b16379494b2a29b3645eee8744771d5\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\7c23c3e9d6473b822c47378ddf187c49\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\7c23c3e9d6473b822c47378ddf187c49\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\78d734ba52b7d1cd09825b65d04731a0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\78d734ba52b7d1cd09825b65d04731a0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\7c23c3e9d6473b822c47378ddf187c49\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:11:13-45
+	android:roundIcon
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:12:13-58
+	android:icon
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:10:13-47
+	android:allowBackup
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:14:13-44
+activity#com.syabon.tagpad.CreateMemoActivity
+ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:15:9-16:20
+	android:name
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:15:19-53
+activity#com.syabon.tagpad.MainActivity
+ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\26de0425741127db23316b0cae362b1c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\26de0425741127db23316b0cae362b1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\16dfa3aa241851f57a5fa50f24c1e287\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\16dfa3aa241851f57a5fa50f24c1e287\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\ec3a479ed3460d801123d3c69a9dc7f9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\ec3a479ed3460d801123d3c69a9dc7f9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\4b16379494b2a29b3645eee8744771d5\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\4b16379494b2a29b3645eee8744771d5\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\89ce5b5e4108ae057b9d5138e9d9451d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\89ce5b5e4108ae057b9d5138e9d9451d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\b139495609fc242e6707d60b93d92c3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\b139495609fc242e6707d60b93d92c3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\8fd11a6da8db737255445e754769a723\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\8fd11a6da8db737255445e754769a723\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\362fdac1691a23312570c7bfc70c116a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\362fdac1691a23312570c7bfc70c116a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\85b7de5dacf7f4e077290d241cfb749d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\85b7de5dacf7f4e077290d241cfb749d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\a8ef0b50a5bb9421bf77295787a3f716\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\a8ef0b50a5bb9421bf77295787a3f716\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\7dc908a9a8881e752bdd2594d5341552\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\7dc908a9a8881e752bdd2594d5341552\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\d3e0201f6a4ebc86751ba0c077795094\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\d3e0201f6a4ebc86751ba0c077795094\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\dcefe9f8d49a0da409e5a2605a57f48b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\dcefe9f8d49a0da409e5a2605a57f48b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\d8e9744acba06543f770f0c087c430f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\d8e9744acba06543f770f0c087c430f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\74152e0a3d6f9b276353731c761bfafe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\74152e0a3d6f9b276353731c761bfafe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\3cbe66ba5bc26ac0ae092e51c8ffe958\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\3cbe66ba5bc26ac0ae092e51c8ffe958\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\5874cca5b33e68250e295501bda3caaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\5874cca5b33e68250e295501bda3caaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\dfabdb0fa5e5ff601970206753d1902f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\dfabdb0fa5e5ff601970206753d1902f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\2f954612d31936603632457576f24d45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\2f954612d31936603632457576f24d45\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\7c23c3e9d6473b822c47378ddf187c49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\7c23c3e9d6473b822c47378ddf187c49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\78d734ba52b7d1cd09825b65d04731a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\78d734ba52b7d1cd09825b65d04731a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\6a0aa482a697f82bd3ba1ef96feaa27b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\6a0aa482a697f82bd3ba1ef96feaa27b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\4ab929e6d39da4cb5c2a9b2d310fe349\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\4ab929e6d39da4cb5c2a9b2d310fe349\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\e594ce994c2a2a1162cc22920b349df5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\e594ce994c2a2a1162cc22920b349df5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\eec9db3c646d9b82993a2c3aa93585da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\eec9db3c646d9b82993a2c3aa93585da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\bc6817c3dc2ff817e52aaac4b555867c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\bc6817c3dc2ff817e52aaac4b555867c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\fc30e29172335263a95329fda28a1748\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\fc30e29172335263a95329fda28a1748\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\9129f5c2278bba85f56347c954853b2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\9129f5c2278bba85f56347c954853b2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\ea3abc736c4e26c2b1b473a005d98920\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\ea3abc736c4e26c2b1b473a005d98920\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\b0977e658137090abd5eff48464fb145\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\b0977e658137090abd5eff48464fb145\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\ecec9223bf7f6be317952f15d547907a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\ecec9223bf7f6be317952f15d547907a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\47dc60ab290e477e4dca990bb12e20af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\takumi\.gradle\caches\transforms-2\files-2.1\47dc60ab290e477e4dca990bb12e20af\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\takumi\Documents\Android\TagPad\app\src\main\AndroidManifest.xml
