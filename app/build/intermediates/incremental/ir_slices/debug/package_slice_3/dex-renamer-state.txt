@@ -1,4 +1,0 @@
-#Sun May 26 01:54:56 JST 2019
-base.0=C\:\\Users\\takumi\\Documents\\Android\\TagPad\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
-path.0=classes.dex
-renamed.0=classes.dex
